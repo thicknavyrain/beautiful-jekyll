@@ -10,12 +10,17 @@ author: ThickNavyRain (Ricky)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Blog: "https://atzerothorder.wordpress.com"
+  Research: 
+    - Papers: ""
+    - Code: ""
+  Writing:
+    - Fiction: ""
+    - Non-Fiction/Popular Science: ""
+  About Me: "aboutme"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -27,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /path/to/image
 
 
 # --- Footer social media links --- #
