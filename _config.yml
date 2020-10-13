@@ -10,9 +10,6 @@ author: ThickNavyRain (Ricky)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Blog: "https://atzerothorder.wordpress.com"
   Research: 
     - Papers: ""
