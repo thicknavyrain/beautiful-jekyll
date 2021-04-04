@@ -10,6 +10,6 @@ This blog is about picking apart science and other kinds of research in (what I 
 
 ### About me
 
-My day job is working as a post-doctoral researcher at a London university, using machine-learning (mostly computer vision techniques) in environmental health research. If reading "using machine learning to..." makes you roll your eyes, you can give my [research]({% link research.md %}) page a little look to confirm (or not) your suspicions about me being another deep-learning, bandwagon-jumping hack. My PhD was in theoretical particle physics, during which time I also started [writing popular science]({% link writing.md %}).
+I'm Ricky, a post-doctoral researcher at a London university, using machine-learning (mostly computer vision techniques) in environmental health research. If reading "using machine learning to..." makes you roll your eyes, you can give my [research]({% link research.md %}) page a little look to confirm (or not) your suspicions about me being another deep-learning, bandwagon-jumping hack. My PhD was in theoretical particle physics, during which time I also started [writing popular science]({% link writing.md %}). Most notably, I've written for the popular YouTube channels SciShow and Crash Course. A short story I wrote (Beam Therapy) was published in a collection, which you can read [for free](https://shorts.quantumlah.org/the-book).
 
-As well as being as a scientist/ex-physicist, I’m an attempted writer, bibliophile, lifter of heavy objects, and board gamer.
+As well as being as a scientist/ex-physicist, I’m an attempted writer, bibliophile, lifter of heavy objects, and board gamer. I tweet infrequently from @ThickNavyRain
