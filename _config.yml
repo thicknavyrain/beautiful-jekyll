@@ -11,13 +11,14 @@ author: ThickNavyRain (Ricky)
 
 navbar-links:
   Blog: "https://atzerothorder.wordpress.com"
-  Research: 
+  Research:
     - Papers: ""
     - Code: ""
   Writing:
     - Non-Fiction/Popular Science: ""
     - Fiction: ""
   About Me: "aboutme"
+  Contact: "contact"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -220,4 +221,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
