@@ -15,7 +15,7 @@ navbar-links:
     - Papers: ""
     - Code: ""
   Writing:
-    - Writing: "All"
+    - Writing: "writing"
       - Non-Fiction/Popular Science: "non-fiction"
         - Videos: "complexly"
       - Fiction: "fiction"
