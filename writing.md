@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
-subtitle: This blog and the sack of meat behind it.
+title: Writing
+subtitle: Words I wrote and where to find them.
 ---
 
-The world might seem like a complicated place but it doesn’t need to be. Angles can always be small. Things only happen at low temperatures. All potentials are quadratic and spherical cows occupy friction-less vacuums. Or at least, it’s easier to make sense of it that way sometimes.
+I have been a popular science writer (a little bit of journalism and blogging but overwhelmingly, script writing for videos) since 2015. In my free time, I sporadically write fiction, some of which has been in other publications.
 
-This blog is about picking apart science and other kinds of research in (what I hope is) a simple and irreverent way (or, [at zeroth order](https://en.wikipedia.org/wiki/Order_of_approximation#Zeroth-order)).
+### Non Fiction
 
-### About me
+## Videos (Script writing)
 
-I'm Ricky, a post-doctoral researcher at a London university, using machine-learning (mostly computer vision techniques) in environmental health research. If reading "using machine learning to..." makes you roll your eyes, you can give my [research]({% link research.md %}) page a little look to confirm (or not) your suspicions about me being another deep-learning, bandwagon-jumping hack. My PhD was in theoretical particle physics, during which time I also started [writing popular science]({% link writing.md %}). Most notably, I've written for the popular YouTube channels SciShow and Crash Course. A short story I wrote (Beam Therapy) was published in a collection, which you can read [for free](https://shorts.quantumlah.org/the-book).
+I have written over 30 scripts for the YouTube channels SciShow and Crash Course. The videos have covered lots of different topics in science and engineering, with a slight emphasis on physics and physics-adjacent topics. They have collectively garnered over 2.5 million views.
 
-As well as being as a scientist/ex-physicist, I’m an attempted writer, bibliophile, lifter of heavy objects, and board gamer.
+A full list of my videos can be found [here]({% link complexly.md %})
+
+## Journalism and Blogging
+
+I spent two months out from my PhD with The Naked Scientists in Cambridge a radio show produced for BBC Cambridgeshire and released as a podcast online. I wrote 8 news articles, presented 7 pieces all of which I co-produced (including interviewing researchers) and co-produced a full 30 minute show on nuclear physics, released on BBC Cambridgeshire. All pieces are available [here](https://www.thenakedscientists.com/users/ricky-nathvani).
+
+Between 2015 and 2016, I was also a writer on the blog Quantum Diaries covering particle physics topics in (what I hope was) an accessible format. My posts may be read [here](https://www.quantumdiaries.org/author/rnathvani/).
