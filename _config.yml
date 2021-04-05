@@ -14,7 +14,7 @@ navbar-links:
   Research:
     - Papers: ""
     - Code: ""
-  Writing:
+  Writing: "writing"
     - Non-Fiction/Popular Science: ""
     - Fiction: ""
   About Me: "aboutme"
