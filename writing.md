@@ -20,6 +20,16 @@ I spent two months out from my PhD with The Naked Scientists in Cambridge a radi
 
 Between 2015 and 2016, I was also a writer on the blog Quantum Diaries covering particle physics topics in (what I hope was) an accessible format. My posts may be read [here](https://www.quantumdiaries.org/author/rnathvani/).
 
+### Other
+
+I wrote a piece for ThinkPostgrad on whether or not to do a PhD (found [here](https://www.thinkpostgrad.com/why-you-should-or-shouldnt-do-a-phd-a-research-students-view/)).
+
+I also wrote a short guide to career options and advice after a (British) PhD in Physics, which you can access [here]({{ https://www.atzerothorder.com/ }}/assets/hedging_your_bets__exploring_career_options_beyond_physics___static-1.pdf)
+
 ## Fiction
 
 Sometimes I write short stories, mostly with some kind of scientific theme to them (though not necessarily "sci-fi").
+
+One, "Beam Therapy", was a runner-up in the Quantum Shorts competition 2017 which you can find published in their [anthology of stories](https://shorts.quantumlah.org/sites/default/files/quantum_shorts_book.pdf).
+
+The other
