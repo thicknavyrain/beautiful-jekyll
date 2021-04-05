@@ -14,9 +14,11 @@ navbar-links:
   Research:
     - Papers: ""
     - Code: ""
-  Writing: "writing"
-    - Non-Fiction/Popular Science: ""
-    - Fiction: ""
+  Writing:
+    - Writing: "All"
+      - Non-Fiction/Popular Science: "non-fiction"
+        - Videos: "complexly"
+      - Fiction: "fiction"
   About Me: "aboutme"
   Contact: "contact"
 # --- Logo --- #

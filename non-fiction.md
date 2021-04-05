@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Writing
-subtitle: Words I wrote and where to find them.
+title: Non-fiction Writing
+subtitle: (Factual) Words I wrote and where to find them.
 ---
 
-I have been a popular science writer (a little bit of journalism and blogging but overwhelmingly, script writing for videos) since 2015. In my free time, I sporadically write fiction, some of which has been in other publications.
+I have been a popular science writer (a little bit of journalism and blogging but overwhelmingly, script writing for videos) since 2015.
 
 ## Non Fiction
+
 
 ### Videos (Script writing)
 
@@ -19,7 +20,3 @@ A full list of my videos can be found [here]({% link complexly.md %})
 I spent two months out from my PhD with The Naked Scientists in Cambridge a radio show produced for BBC Cambridgeshire and released as a podcast online. I wrote 8 news articles, presented 7 pieces all of which I co-produced (including interviewing researchers) and co-produced a full 30 minute show on nuclear physics, released on BBC Cambridgeshire. All pieces are available [here](https://www.thenakedscientists.com/users/ricky-nathvani).
 
 Between 2015 and 2016, I was also a writer on the blog Quantum Diaries covering particle physics topics in (what I hope was) an accessible format. My posts may be read [here](https://www.quantumdiaries.org/author/rnathvani/).
-
-## Fiction
-
-Sometimes I write short stories, mostly with some kind of scientific theme to them (though not necessarily "sci-fi").
