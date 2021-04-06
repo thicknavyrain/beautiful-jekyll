@@ -32,4 +32,4 @@ Sometimes I write short stories, mostly with some kind of scientific theme to th
 
 One, "Beam Therapy", was a runner-up in the Quantum Shorts competition 2017 which you can find published in their [anthology of stories](https://shorts.quantumlah.org/sites/default/files/quantum_shorts_book.pdf).
 
-The other
+The other was a short story for the Isis magazine, a student publication based in Oxford (named after the river not the... other thing). It imagines space explorers finding life on another planet identical to that of Earth's (based on a writing prompt found on Reddit). You can read it [here](https://isismagazine.org.uk/byline/ricky-nathvani/). It's kinda cheesy, I'm sorry.

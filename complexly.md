@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Writing
-subtitle: Words I wrote and where to find them.
+title: Videos and Script Writing
+subtitle: Freelance work on YouTube.
 ---
 
-I have been a popular science writer (a little bit of journalism and blogging but overwhelmingly, script writing for videos) since 2015. In my free time, I sporadically write fiction, some of which has been in other publications.
+I do freelance script-writing for Complexly, a video production company focusing on educational content for YouTube (co-owned by John and Hank Green).
 
 ### Non Fiction
 
